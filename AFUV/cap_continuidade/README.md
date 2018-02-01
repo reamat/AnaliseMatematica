@@ -1,6 +1,6 @@
-# Diretório: cap_intro
+# Diretório: cap_continuidade
 
-Este diretório contém o código fonte do capítulo "Introdução".
+Este diretório contém o código fonte do capítulo "Funções contínuas".
 
 ## Licença
 

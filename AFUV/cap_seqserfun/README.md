@@ -1,6 +1,6 @@
-# Diretório: cap_intro
+# Diretório: cap_seqserfun
 
-Este diretório contém o código fonte do capítulo "Introdução".
+Este diretório contém o código fonte do capítulo "Sequências e séries de funções".
 
 ## Licença
 

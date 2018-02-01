@@ -1,6 +1,6 @@
-# Diretório: cap_intro
+# Diretório: cap_integracao
 
-Este diretório contém o código fonte do capítulo "Introdução".
+Este diretório contém o código fonte do capítulo "Integral de Riemann".
 
 ## Licença
 

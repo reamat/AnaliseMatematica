@@ -1,6 +1,6 @@
-# Diretório: cap_intro
+# Diretório: cap_diferenciacao
 
-Este diretório contém o código fonte do capítulo "Introdução".
+Este diretório contém o código fonte do capítulo "Diferenciação".
 
 ## Licença
 
