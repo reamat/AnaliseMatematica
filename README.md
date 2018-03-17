@@ -1,8 +1,8 @@
 # AnaliseMatematica
 
-Este é um projeto de escrita colaborativa de materiais didáticos sobre análise matemática. Veja mais sobre o projeto em https://www.ufrgs.br/reamat/AnaliseMatematica. Veja, também, os outros projetos de escritas colaborativas em https://www.ufrgs.br/reamat.
+** PROJETO EMBRIÃO **
 
-Qualquer dúvida, poste no nosso fórum https://www.ufrgs.br/reamat/forum.html, crie um _issue_ no repositório do livro ou escreva para reamat@ufrgs.br.
+Este é um projeto de escrita colaborativa de materiais didáticos sobre análise matemática. ** Este projeto está em fase inicial de desenvolvimento. **
 
 ## Lista de recursos
 
